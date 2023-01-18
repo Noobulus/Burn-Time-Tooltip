@@ -1,0 +1,6 @@
+{
+  "tooltip.burntimetooltip.burntime": "Burn Time: %s Items",
+  "tooltip.burntimetooltip.unit.ticks": "Ticks",
+  "tooltip.burntimetooltip.unit.seconds": "Seconds",
+  "tooltip.burntimetooltip.unit.items": "Items"
+}

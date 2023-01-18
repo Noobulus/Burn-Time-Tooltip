@@ -1,9 +1,7 @@
-# Fabric Example Mod
+# Burn Time Tooltip
 
-## Setup
+Adds the furnace burn time of a given item to its tooltip!
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Configuration
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+units (ticks, seconds, items) and mode (always, show on sneak) will be configurable soon(tm)
